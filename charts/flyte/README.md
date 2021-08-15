@@ -2,7 +2,7 @@
 
 ![Version: v0.1.10](https://img.shields.io/badge/Version-v0.1.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square)
 
-A Helm chart for Flyte
+A Helm chart for Flyte -- Manually copied from Flyte repository at [7a83beb99b2b9942d64a41c1842e7e1100559d2f](https://github.com/flyteorg/flyte/tree/7a83beb99b2b9942d64a41c1842e7e1100559d2f).
 
 ## Requirements
 
